@@ -4,6 +4,8 @@
 
 A fast, lightweight, and free web-based toolkit for image editing and color picking directly in your browser. No registration, no server uploads—everything runs 100% client-side.
 
+Open and use it online: https://novosibman.github.io/toolz 
+
 ✨ Features
 
  * Image Editor: image editing with instant live preview, pen, brush, fill, eyedropper, etc.
