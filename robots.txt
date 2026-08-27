@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://novosibman.github.io/toolz/sitemap.xml
